@@ -9,3 +9,7 @@
 * #### Definition of an even number.
 * #### Determination of the greatest common divisor.
 * #### Definition of a prime number.
+
+## Brain even
+```brain-even```
+![https://asciinema.org/a/vr0gUYM1HWerIPCDFsljgvKhE](https://asciinema.org/a/vr0gUYM1HWerIPCDFsljgvKhE.png)
