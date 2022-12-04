@@ -15,4 +15,10 @@ brain-even
 ```
 brain-calc
 ```
-[![asciicast](https://asciinema.org/a/6jCivxVyq8FTMKNYhvFFtbSdy.png)]( https://asciinema.org/a/6jCivxVyq8FTMKNYhvFFtbSdy)
+[![asciicast](https://asciinema.org/a/6jCivxVyq8FTMKNYhvFFtbSdy.png)](https://asciinema.org/a/6jCivxVyq8FTMKNYhvFFtbSdy)
+
+### Brain GCD
+```
+brain-gcd
+```
+[![asciicast](https://asciinema.org/a/Si57cIJaLIsKyV6izSiBUDd03.png)](https://asciinema.org/a/Si57cIJaLIsKyV6izSiBUDd03)
