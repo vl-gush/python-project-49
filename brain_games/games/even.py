@@ -1,9 +1,10 @@
 import random
 
+DESCRIPTION = 'Enter "yes" if the number is even, otherwise enter "no".'
 
-def even() -> str:
-    """Returns "yes" if the number is even, otherwise "no".
-    """
+
+def even():
     number = random.randint(0, 100)
-    print(f"Question: {number}")
-    return "yes" if number % 2 == 0 else "no"
+    question = f"Question: {number}"
+    answer = "yes" if number % 2 == 0 else "no"
+    return question, answer
