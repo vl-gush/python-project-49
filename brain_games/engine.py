@@ -5,7 +5,7 @@ def engine(game, name: str, attempts: int = 3):
     while attempts:
         correct_answer = game()
         user_answer = prompt.string("Your answer: ")
-        if user_answer == correct_answer:
+        if user_answer == str(correct_answer):
             print("Correct!")
             attempts -= 1
         else:
