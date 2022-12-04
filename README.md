@@ -12,4 +12,4 @@
 
 ## Brain even
 ```brain-even```
-![https://asciinema.org/a/vr0gUYM1HWerIPCDFsljgvKhE](https://asciinema.org/a/vr0gUYM1HWerIPCDFsljgvKhE.png)
+[![asciicast](https://asciinema.org/a/vr0gUYM1HWerIPCDFsljgvKhE.png)](https://asciinema.org/a/vr0gUYM1HWerIPCDFsljgvKhE)
