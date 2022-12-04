@@ -8,7 +8,7 @@ OPERATORS = {
 }
 
 
-def calc() -> str:
+def calc() -> int:
     """Returns the result of a random operation from the OPERATORS dictionary \
 on two random numbers.
     """
@@ -16,4 +16,4 @@ on two random numbers.
     num2 = random.randint(0, 50)
     operator = random.choice(list(OPERATORS))
     print(f"Question: {num1} {operator} {num2}")
-    return str(OPERATORS[operator](num1, num2))
+    return OPERATORS[operator](num1, num2)
