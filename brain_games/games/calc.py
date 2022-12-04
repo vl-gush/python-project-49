@@ -9,6 +9,9 @@ OPERATORS = {
 
 
 def calc() -> str:
+    """Returns the result of a random operation from the OPERATORS dictionary \
+on two random numbers.
+    """
     num1 = random.randint(0, 50)
     num2 = random.randint(0, 50)
     operator = random.choice(list(OPERATORS))
