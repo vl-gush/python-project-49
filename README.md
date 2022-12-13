@@ -11,35 +11,40 @@
 
 ## Installation
 ```
-python3 -m pip install git+https://github.com/vl-gush/python-project-49
+python3 -m pip install --user git+https://github.com/vl-gush/python-project-49
 ```
-[![asciicast](https://asciinema.org/a/2X2W5MAW3b2wror11yg3nPBUU.png)](https://asciinema.org/a/2X2W5MAW3b2wror11yg3nPBUU)
+[![asciicast](https://asciinema.org/a/Q5iktFl2IogU0MRfHC1H9woVe.png)](https://asciinema.org/a/Q5iktFl2IogU0MRfHC1H9woVe)
 
 ### Brain even
+##### Answer "yes" if the number is even, otherwise answer "no".
 ```
 brain-even
 ```
 [![asciicast](https://asciinema.org/a/vr0gUYM1HWerIPCDFsljgvKhE.png)](https://asciinema.org/a/vr0gUYM1HWerIPCDFsljgvKhE)
 
 ### Brain calculator
+##### What is the result of the expression?
 ```
 brain-calc
 ```
 [![asciicast](https://asciinema.org/a/6jCivxVyq8FTMKNYhvFFtbSdy.png)](https://asciinema.org/a/6jCivxVyq8FTMKNYhvFFtbSdy)
 
 ### Brain GCD
+##### Find the greatest common divisor of given numbers.
 ```
 brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/Si57cIJaLIsKyV6izSiBUDd03.png)](https://asciinema.org/a/Si57cIJaLIsKyV6izSiBUDd03)
 
 ### Brain progression
+##### What number is missing in the progression?
 ```
 brain-progression
 ```
 [![asciicast](https://asciinema.org/a/7SaqW68vT8DziXDtNgYS0UFou.png)](https://asciinema.org/a/7SaqW68vT8DziXDtNgYS0UFou)
 
 ### Brain prime
+##### Answer "yes" if given number is prime. Otherwise answer "no".
 ```
 brain-prime
 ```
