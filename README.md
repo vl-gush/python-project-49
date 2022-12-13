@@ -5,6 +5,16 @@
 
 ##### Brain Games is a set of five console games built on the principle of popular mobile applications for brain pumping. Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again.
 
+## System requirements:
+* #### python ver. ^3.8.1
+* #### git ver. ^2.25.1
+
+## Installation
+```
+python3 -m pip install git+https://github.com/vl-gush/python-project-49
+```
+[![asciicast](https://asciinema.org/a/2X2W5MAW3b2wror11yg3nPBUU.png)](https://asciinema.org/a/2X2W5MAW3b2wror11yg3nPBUU)
+
 ### Brain even
 ```
 brain-even
