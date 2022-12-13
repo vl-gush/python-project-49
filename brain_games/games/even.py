@@ -1,6 +1,6 @@
 import random
 
-DESCRIPTION = 'Enter "yes" if the number is even, otherwise enter "no".'
+DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def even():

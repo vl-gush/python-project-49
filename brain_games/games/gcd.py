@@ -1,6 +1,6 @@
 import random
 
-DESCRIPTION = "Enter the largest common divisor of two numbers"
+DESCRIPTION = "Find the greatest common divisor of given numbers."
 
 
 def gcd():
