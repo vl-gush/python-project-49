@@ -13,7 +13,7 @@ def prime():
 
 
 def is_prime(number):
-    for i in range(2, round(math.sqrt(number))):
+    for i in range(2, int(math.sqrt(number))):
         if number % i == 0:
             return False
     return True
