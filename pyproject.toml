@@ -1,9 +1,18 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.7.1"
-description = ""
-authors = ["Влад Гуштын <vladislav3372@gmail.com>"]
+description = "Brain Games is a set of five console games built on the principle of popular mobile applications for brain pumping."
+authors = [
+  { name="Влад Гуштын", email="vladislav3372@gmail.com" },
+]
 readme = "README.md"
+requires-python = ">=3.8.1"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+repository = "https://github.com/vl-gush/python-project-49"
 packages = [
   { include = "brain_games" },
 ]
