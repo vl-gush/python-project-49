@@ -15,6 +15,12 @@ python3 -m pip install --user git+https://github.com/vl-gush/python-project-49
 ```
 [![asciicast](https://asciinema.org/a/Q5iktFl2IogU0MRfHC1H9woVe.png)](https://asciinema.org/a/Q5iktFl2IogU0MRfHC1H9woVe)
 
+## Uninstallation
+```
+python3 -m pip uninstall hexlet-code
+```
+[![asciicast](https://asciinema.org/a/GPpSXmyuwld5w5U0VmhkZeKY8.png)](https://asciinema.org/a/GPpSXmyuwld5w5U0VmhkZeKY8)
+
 ### Brain even
 ##### Answer "yes" if the number is even, otherwise answer "no".
 ```
